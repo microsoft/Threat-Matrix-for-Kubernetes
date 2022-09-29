@@ -24,6 +24,7 @@ nav:
     - 'index.md'
     - Initial Access:
       - 'tactics/InitialAccess/index.md'
+      - Using Cloud Credentials: 'tactics/InitialAccess/Using Cloud Credentials.md'
     - Execution:
       - 'tactics/Execution/index.md'
     - Persistence:
