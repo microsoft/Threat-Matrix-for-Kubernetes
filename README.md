@@ -4,6 +4,9 @@ Microsoft Defender for Cloud threat matrix for Kubernetes contains attack tactic
 
 The threat matrix is best viewed online via: [http://aka.ms/KubernetesThreatMatrix](http://aka.ms/KubernetesThreatMatrix)
 
+[![build doc pages](https://github.com/microsoft/Threat-Matrix-for-Kubernetes/actions/workflows/main.yml/badge.svg)](https://github.com/microsoft/Threat-Matrix-for-Kubernetes/actions/workflows/main.yml)
+[![pages-build-deployment](https://github.com/microsoft/Threat-Matrix-for-Kubernetes/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/microsoft/Threat-Matrix-for-Kubernetes/actions/workflows/pages/pages-build-deployment)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
