@@ -1,3 +1,47 @@
 site_name: Threat Matrix for Kubernetes
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: blue
+  logo: assets/Microsoft.png
+  favicon: assets/mdc.png
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Tactics: 
+    - 'tactics/index.md'
+    - Initial Access:
+      - 'tactics/InitialAccess/index.md'
+    - Execution:
+      - 'tactics/Execution/index.md'
+    - Persistence:
+      - 'tactics/Persistence/index.md'
+    - Privilege Escalation:
+      - 'tactics/PrivilegeEscalation/index.md'
+    - Defense Evasion:
+      - 'tactics/DefenseEvasion/index.md'
+    - Credential Access:
+      - 'tactics/CredentialAccess/index.md'
+    - Discovery:
+      - 'tactics/Discovery/index.md'
+    - Lateral Movement:
+      - 'tactics/LateralMovement/index.md'
+    - Collection:
+      - 'tactics/Collection/index.md'
+    - Impact:
+      - 'tactics/Impact/index.md'
+  - Mitigations: 
+    - 'mitigations/index.md'
+  - About: 'about.md'
