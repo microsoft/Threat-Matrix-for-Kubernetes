@@ -1,4 +1,4 @@
-name: publish docs
+name: build doc pages
 on:
   push:
     branches: [ "main" ]
@@ -18,5 +18,5 @@ jobs:
           python-version: 3.x
       - name: Install Dependencies
         run: pip install mkdocs-material
-      - name: Publish Pages
+      - name: Publish Pages to gh-deploy
         run: mkdocs gh-deploy --force
