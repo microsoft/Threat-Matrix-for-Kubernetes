@@ -25,6 +25,11 @@ nav:
     - Initial Access:
       - 'tactics/InitialAccess/index.md'
       - Using Cloud Credentials: 'tactics/InitialAccess/Using Cloud Credentials.md'
+      - Compromised Image In Registry: 'tactics/InitialAccess/Compromised Image In Registry.md'
+      - Kubeconfig file: 'tactics/InitialAccess/Kubeconfig file.md'
+      - Application Vulnerability: 'tactics/InitialAccess/Application Vulnerability.md'
+      - Exposed Dashboard: 'tactics/InitialAccess/Exposed Dashboard.md'
+      - Exposed Sensitive Interfaces: 'tactics/InitialAccess/Exposed%20sensitive%20interfaces.md'
     - Execution:
       - 'tactics/Execution/index.md'
     - Persistence:
