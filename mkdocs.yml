@@ -23,14 +23,14 @@ nav:
   - Tactics: 
     - 'index.md'
     - Initial Access:
-      - 'tactics/InitialAccess/index.md'
+      - 'tactics/InitialAccess.md'
       - Using Cloud Credentials: 'techniques/Using Cloud Credentials.md'
       - Compromised Image In Registry: 'techniques/Compromised Image In Registry.md'
       - Kubeconfig file: 'techniques/Kubeconfig file.md'
       - Application Vulnerability: 'techniques/Application Vulnerability.md'
       - Exposed Sensitive Interfaces: 'techniques/Exposed sensitive interfaces.md'
     - Execution:
-      - 'tactics/Execution/index.md'
+      - 'tactics/Execution.md'
       - Exec Into Container: 'techniques/Exec into container.md'
       - Bash/cmd Inside Container: 'techniques/bash or cmd inside container.md'
       - New Container: 'techniques/New Container.md'
@@ -38,25 +38,25 @@ nav:
       - SSH Server Running Inside Container: 'techniques/SSH server running inside container.md'
       - Sidecar Injection: 'techniques/Sidecar Injection.md'
     - Persistence:
-      - 'tactics/Persistence/index.md'
+      - 'tactics/Persistence.md'
       - Backdoor Container: 'techniques/Backdoor container.md'
       - Writable hostPath Mount: 'techniques/Writable hostPath mount.md'
       - Kubernetes CronJob: 'techniques/Kubernetes CronJob.md'
       - Malicious Admission Controller: 'techniques/Malicious admission controller.md'
     - Privilege Escalation:
-      - 'tactics/PrivilegeEscalation/index.md'
+      - 'tactics/PrivilegeEscalation.md'
       - Privileged Container: 'techniques/Privileged container.md'
       - Cluster-admin Binding: 'techniques/Cluster-admin binding.md'
       - Writable hostPath Mount: 'techniques/Writable hostPath mount.md'
       - Access Cloud Resources: 'techniques/Access cloud resources.md'
     - Defense Evasion:
-      - 'tactics/DefenseEvasion/index.md'
+      - 'tactics/DefenseEvasion.md'
       - Clear Container Logs: 'techniques/Clear container logs.md'
       - Delete Kubernetes Events: 'techniques/Delete K8S events.md'
       - Pod or Container Name Similarily: 'techniques/Pod or container name similarily.md'
       - Connect from Proxy Server: 'techniques/Connect from Proxy server.md'
     - Credential Access:
-      - 'tactics/CredentialAccess/index.md'
+      - 'tactics/CredentialAccess.md'
       - List Kubernetes Secrets: 'techniques/List K8S secrets.md'
       - Mount Service Principal: 'techniques/Mount service principal.md'
       - Access Container Service Account: 'techniques/Access container service account.md'
@@ -64,14 +64,14 @@ nav:
       - Access Managed Identity Credentials: 'techniques/Access managed identity credentials.md'
       - Malicious Admission Controller: 'techniques/Malicious admission controller.md'
     - Discovery:
-      - 'tactics/Discovery/index.md'
+      - 'tactics/Discovery.md'
       - Access Kubernetes API Server: 'techniques/Access the K8S API server.md'
       - Access Kubelet API: 'techniques/Access Kubelet API.md'
       - Network Mapping: 'techniques/Network mapping.md'
       - Access Kubernetes Dasbhoard: 'techniques/Access Kubernetes dasbhoard.md'
       - Instance Metadata API: 'techniques/Instance Metadata API.md'
     - Lateral Movement:
-      - 'tactics/LateralMovement/index.md'
+      - 'tactics/LateralMovement.md'
       - Access Cloud Resources: 'techniques/Access cloud resources.md'
       - Container Service Account: 'techniques/Access container service account.md'
       - Cluster Internal Networking: 'techniques/Cluster internal networking.md'
@@ -80,10 +80,10 @@ nav:
       - CoreDNS Poisoning: 'techniques/CoreDNS poisoning.md'
       - ARP poisoning and IP spoofing: 'techniques/ARP poisoning and IP spoofing.md'
     - Collection:
-      - 'tactics/Collection/index.md'
+      - 'tactics/Collection.md'
       - Images from a Private Registry: 'techniques/images from a private registry.md'
     - Impact:
-      - 'tactics/Impact/index.md'
+      - 'tactics/Impact.md'
       - Data Destruction: 'techniques/Data destruction.md'
       - Resource Hijacking: 'techniques/Resource hijacking.md'
       - Denial of Service: 'techniques/Denial of service.md'
