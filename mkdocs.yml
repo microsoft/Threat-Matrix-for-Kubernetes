@@ -46,6 +46,10 @@ nav:
       - Malicious Admission Controller: 'tactics/Persistence/Malicious admission controller.md'
     - Privilege Escalation:
       - 'tactics/PrivilegeEscalation/index.md'
+      - Privileged Container: 'tactics/PrivilegeEscalation/Privileged container.md'
+      - Cluster-admin Binding: 'tactics/PrivilegeEscalation/Cluster-admin binding.md'
+      - Writable hostPath Mount: 'tactics/Persistence/Writable hostPath mount.md'
+      - Access Cloud Resources: 'tactics/PrivilegeEscalation/Access cloud resources.md'
     - Defense Evasion:
       - 'tactics/DefenseEvasion/index.md'
     - Credential Access:
