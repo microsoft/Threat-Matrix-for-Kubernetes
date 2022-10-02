@@ -29,9 +29,15 @@ nav:
       - Kubeconfig file: 'tactics/InitialAccess/Kubeconfig file.md'
       - Application Vulnerability: 'tactics/InitialAccess/Application Vulnerability.md'
       - Exposed Dashboard: 'tactics/InitialAccess/Exposed Dashboard.md'
-      - Exposed Sensitive Interfaces: 'tactics/InitialAccess/Exposed%20sensitive%20interfaces.md'
+      - Exposed Sensitive Interfaces: 'tactics/InitialAccess/Exposed sensitive interfaces.md'
     - Execution:
       - 'tactics/Execution/index.md'
+      - Exec Into Container: 'tactics/Execution/Exec into container.md'
+      - Bash/cmd Inside Container: 'tactics/Execution/bash or cmd inside container.md'
+      - New Container: 'tactics/Execution/New Container.md'
+      - Application Exploit (RCE): 'tactics/Execution/Application Exploit (RCE).md'
+      - SSH Server Running Inside Container: 'tactics/Execution/SSH server running inside container.md'
+      - Sidecar Injection: 'tactics/Execution/Sidecar Injection.md'
     - Persistence:
       - 'tactics/Persistence/index.md'
     - Privilege Escalation:
