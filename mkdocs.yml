@@ -87,6 +87,9 @@ nav:
       - Images from a Private Registry: 'tactics/Collection/images from a private registry.md'
     - Impact:
       - 'tactics/Impact/index.md'
+      - Data Destruction: 'tactics/Impact/Data destruction.md'
+      - Resource Hijacking: 'tactics/Impact/Resource hijacking.md'
+      - Denial of Service: 'tactics/Impact/Denial of service.md'
   - Mitigations: 
     - 'mitigations/index.md'
     - Multi-factor Authentication: 'mitigations/MS-M9001 Multi-factor Authentication.md'
