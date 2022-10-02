@@ -59,7 +59,7 @@ nav:
       - 'tactics/CredentialAccess/index.md'
       - List Kubernetes Secrets: 'techniques/List K8S secrets.md'
       - Mount Service Principal: 'techniques/Mount service principal.md'
-      - Access Container Service Account: 'techniques/Access container service account.md'
+      - Container Service Account: 'techniques/container service account.md'
       - Application Credentials in Configuration Files: 'techniques/Application credentials in configuration files.md'
       - Access Managed Identity Credentials: 'techniques/Access managed identity credentials.md'
       - Malicious Admission Controller: 'techniques/Malicious admission controller.md'
