@@ -43,6 +43,7 @@ nav:
       - Writable hostPath Mount: 'techniques/Writable hostPath mount.md'
       - Kubernetes CronJob: 'techniques/Kubernetes CronJob.md'
       - Malicious Admission Controller: 'techniques/Malicious admission controller.md'
+      - Container Service Account: 'techniques/container service account.md'
     - Privilege Escalation:
       - 'tactics/PrivilegeEscalation/index.md'
       - Privileged Container: 'techniques/Privileged container.md'
@@ -73,7 +74,7 @@ nav:
     - Lateral Movement:
       - 'tactics/LateralMovement/index.md'
       - Access Cloud Resources: 'techniques/Access cloud resources.md'
-      - Container Service Account: 'techniques/Access container service account.md'
+      - Container Service Account: 'techniques/container service account.md'
       - Cluster Internal Networking: 'techniques/Cluster internal networking.md'
       - Application Credentials in Configuration Files: 'techniques/Application credentials in configuration files.md'
       - Writable hostPath Mount: 'techniques/Writable hostPath mount.md'
