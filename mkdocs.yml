@@ -44,6 +44,7 @@ nav:
       - Kubernetes CronJob: 'techniques/Kubernetes CronJob.md'
       - Malicious Admission Controller: 'techniques/Malicious admission controller.md'
       - Container Service Account: 'techniques/container service account.md'
+      - Static Pods: 'techniques/Static Pods.md'
     - Privilege Escalation:
       - 'tactics/PrivilegeEscalation/index.md'
       - Privileged Container: 'techniques/Privileged container.md'
@@ -56,6 +57,7 @@ nav:
       - Delete Kubernetes Events: 'techniques/Delete K8S events.md'
       - Pod or Container Name Similarily: 'techniques/Pod or container name similarily.md'
       - Connect from Proxy Server: 'techniques/Connect from Proxy server.md'
+      - Static Pods: 'techniques/Static Pods.md'
     - Credential Access:
       - 'tactics/CredentialAccess/index.md'
       - List Kubernetes Secrets: 'techniques/List K8S secrets.md'
