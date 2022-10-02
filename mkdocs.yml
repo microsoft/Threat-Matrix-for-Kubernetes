@@ -52,6 +52,10 @@ nav:
       - Access Cloud Resources: 'tactics/PrivilegeEscalation/Access cloud resources.md'
     - Defense Evasion:
       - 'tactics/DefenseEvasion/index.md'
+      - Clear Container Logs: 'tactics/DefenseEvasion/Clear container logs.md'
+      - Delete Kubernetes Events: 'tactics/DefenseEvasion/Delete K8S events.md'
+      - Pod or Container Name Similarily: 'tactics/DefenseEvasion/Pod or container name similarily.md'
+      - Connect from Proxy Server: 'tactics/DefenseEvasion/Connect from Proxy server.md'
     - Credential Access:
       - 'tactics/CredentialAccess/index.md'
     - Discovery:
