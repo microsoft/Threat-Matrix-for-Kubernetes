@@ -1,0 +1,19 @@
+---
+hide:
+  - toc
+  - footer
+---
+
+# Access Kubelet API
+
+!!! info inline end
+    ID: ???<br>
+    Tactic: [Discovery](../Discovery/index.md) <br>
+    MITRE technique: [T1613](https://attack.mitre.org/techniques/T1613/)
+
+Kubelet is the Kubernetes agent that is installed on each node. Kubelet is responsible for the proper execution of pods that are assigned to the node. Kubelet exposes a read-only API service that does not require authentication (TCP port 10255). Attackers with network access to the host (for example, via running code on a compromised container) can send API requests to the Kubelet API. Specifically querying https://[NODE IP]:10255/pods/ retrieves the running pods on the node. https://[NODE IP]:10255/spec/ retrieves information about the node itself, such as CPU and memory consumption.
+
+## Mitigations
+
+|ID|Mitigation|Description|
+|--|----------|-----------|

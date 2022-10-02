@@ -66,6 +66,11 @@ nav:
       - Malicious Admission Controller: 'tactics/Persistence/Malicious admission controller.md'
     - Discovery:
       - 'tactics/Discovery/index.md'
+      - Access Kubernetes API Server: 'tactics/Discovery/Access the K8S API server.md'
+      - Access Kubelet API: 'tactics/Discovery/Access Kubelet API.md'
+      - Network Mapping: 'tactics/Discovery/Network mapping.md'
+      - Access Kubernetes Dasbhoard: 'tactics/Discovery/Access Kubernetes dasbhoard.md'
+      - Instance Metadata API: 'tactics/Discovery/Instance Metadata API.md'
     - Lateral Movement:
       - 'tactics/LateralMovement/index.md'
     - Collection:
