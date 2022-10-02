@@ -8,7 +8,7 @@ hide:
 
 !!! info inline end
     ID: ???<br>
-    Tactic: [Defense Evasion](../DefenseEvasion/index.md) <br>
+    Tactic: [Defense Evasion](../tactics/DefenseEvasion/index.md) <br>
     MITRE technique: [T1070](https://attack.mitre.org/techniques/T1070/)
 
 A Kubernetes event is a Kubernetes object that logs state changes and failures of the resources in the cluster. Example events are a container creation, an image pull, or a pod scheduling on a node.
