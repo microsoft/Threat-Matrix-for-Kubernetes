@@ -28,7 +28,6 @@ nav:
       - Compromised Image In Registry: 'tactics/InitialAccess/Compromised Image In Registry.md'
       - Kubeconfig file: 'tactics/InitialAccess/Kubeconfig file.md'
       - Application Vulnerability: 'tactics/InitialAccess/Application Vulnerability.md'
-      - Exposed Dashboard: 'tactics/InitialAccess/Exposed Dashboard.md'
       - Exposed Sensitive Interfaces: 'tactics/InitialAccess/Exposed sensitive interfaces.md'
     - Execution:
       - 'tactics/Execution/index.md'
@@ -78,8 +77,6 @@ nav:
       - Cluster Internal Networking: 'tactics/LateralMovement/Cluster internal networking.md'
       - Application Credentials in Configuration Files: 'tactics/CredentialAccess/Application credentials in configuration files.md'
       - Writable hostPath Mount: 'tactics/Persistence/Writable hostPath mount.md'
-      - Exposed Dashboard: 'tactics/InitialAccess/Exposed Dashboard.md'
-      - Access tiller endpoint: 'tactics/LateralMovement/Access tiller endpoint.md'
       - CoreDNS Poisoning: 'tactics/LateralMovement/CoreDNS poisoning.md'
       - ARP poisoning and IP spoofing: 'tactics/LateralMovement/ARP poisoning and IP spoofing.md'
     - Collection:
