@@ -88,4 +88,5 @@ nav:
       - 'tactics/Impact/index.md'
   - Mitigations: 
     - 'mitigations/index.md'
+    - Multi-factor Authentication: 'mitigations/MS-M9001 Multi-factor Authentication.md'
   - About: 'about.md'
