@@ -73,6 +73,15 @@ nav:
       - Instance Metadata API: 'tactics/Discovery/Instance Metadata API.md'
     - Lateral Movement:
       - 'tactics/LateralMovement/index.md'
+      - Access Cloud Resources: 'tactics/PrivilegeEscalation/Access cloud resources.md'
+      - Container Service Account: 'tactics/CredentialAccess/Access container service account.md'
+      - Cluster Internal Networking: 'tactics/LateralMovement/Cluster internal networking.md'
+      - Application Credentials in Configuration Files: 'tactics/CredentialAccess/Application credentials in configuration files.md'
+      - Writable hostPath Mount: 'tactics/Persistence/Writable hostPath mount.md'
+      - Exposed Dashboard: 'tactics/InitialAccess/Exposed Dashboard.md'
+      - Access tiller endpoint: 'tactics/LateralMovement/Access tiller endpoint.md'
+      - CoreDNS Poisoning: 'tactics/LateralMovement/CoreDNS poisoning.md'
+      - ARP poisoning and IP spoofing: 'tactics/LateralMovement/ARP poisoning and IP spoofing.md'
     - Collection:
       - 'tactics/Collection/index.md'
     - Impact:
