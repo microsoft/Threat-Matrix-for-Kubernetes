@@ -40,6 +40,10 @@ nav:
       - Sidecar Injection: 'tactics/Execution/Sidecar Injection.md'
     - Persistence:
       - 'tactics/Persistence/index.md'
+      - Backdoor Container: 'tactics/Persistence/Backdoor container.md'
+      - Writable hostPath Mount: 'tactics/Persistence/Writable hostPath mount.md'
+      - Kubernetes CronJob: 'tactics/Persistence/Kubernetes CronJob.md'
+      - Malicious Admission Controller: 'tactics/Persistence/Malicious admission controller.md'
     - Privilege Escalation:
       - 'tactics/PrivilegeEscalation/index.md'
     - Defense Evasion:
