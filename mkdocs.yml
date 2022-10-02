@@ -58,6 +58,12 @@ nav:
       - Connect from Proxy Server: 'tactics/DefenseEvasion/Connect from Proxy server.md'
     - Credential Access:
       - 'tactics/CredentialAccess/index.md'
+      - List Kubernetes Secrets: 'tactics/CredentialAccess/List K8S secrets.md'
+      - Mount Service Principal: 'tactics/CredentialAccess/Mount service principal.md'
+      - Access Container Service Account: 'tactics/CredentialAccess/Access container service account.md'
+      - Application Credentials in Configuration Files: 'tactics/CredentialAccess/Application credentials in configuration files.md'
+      - Access Managed Identity Credentials: 'tactics/CredentialAccess/Access managed identity credentials.md'
+      - Malicious Admission Controller: 'tactics/Persistence/Malicious admission controller.md'
     - Discovery:
       - 'tactics/Discovery/index.md'
     - Lateral Movement:
