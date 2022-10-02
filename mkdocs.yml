@@ -84,6 +84,7 @@ nav:
       - ARP poisoning and IP spoofing: 'tactics/LateralMovement/ARP poisoning and IP spoofing.md'
     - Collection:
       - 'tactics/Collection/index.md'
+      - Images from a Private Registry: 'tactics/Collection/images from a private registry.md'
     - Impact:
       - 'tactics/Impact/index.md'
   - Mitigations: 
