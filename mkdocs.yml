@@ -57,7 +57,6 @@ nav:
       - Delete Kubernetes Events: 'techniques/Delete K8S events.md'
       - Pod or Container Name Similarily: 'techniques/Pod or container name similarily.md'
       - Connect from Proxy Server: 'techniques/Connect from Proxy server.md'
-      - Static Pods: 'techniques/Static Pods.md'
     - Credential Access:
       - 'tactics/CredentialAccess/index.md'
       - List Kubernetes Secrets: 'techniques/List K8S secrets.md'
