@@ -84,6 +84,7 @@ nav:
     - Collection:
       - 'tactics/Collection/index.md'
       - Images from a Private Registry: 'techniques/images from a private registry.md'
+      - Collecting Data from Pod: 'techniques/Collecting Data from Pod.md'
     - Impact:
       - 'tactics/Impact/index.md'
       - Data Destruction: 'techniques/Data destruction.md'

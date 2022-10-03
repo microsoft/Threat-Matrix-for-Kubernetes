@@ -10,4 +10,5 @@ Collection in Kubernetes consists of techniques that are used by attackers to co
 
 |ID|Name|
 |--|----|
-|[MS-TA9037](../../techniques/images%20from%20a%20private%20registry.md))|images from a private registry|
+|[MS-TA9037](../../techniques/images%20from%20a%20private%20registry.md)|images from a private registry|
+|[MS-TA9041](../../techniques/Collecting%20Data%20from%20Pod.md)|Collecting Data from Pod|
