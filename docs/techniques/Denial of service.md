@@ -7,7 +7,7 @@ hide:
 # Denial of Service
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9040<br>
     Tactic: [Impact](../tactics/Impact/index.md) <br>
     MITRE technique: [T1498](https://attack.mitre.org/techniques/T1498/), [T1499](https://attack.mitre.org/techniques/T1499/)
 

@@ -7,7 +7,7 @@ hide:
 # Instance Metadata API
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9033<br>
     Tactic: [Discovery](../tactics/Discovery/index.md) <br>
     MITRE technique: [T1552.005](https://attack.mitre.org/techniques/T1552/005/)
 

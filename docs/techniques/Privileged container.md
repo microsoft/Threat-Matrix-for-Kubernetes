@@ -7,7 +7,7 @@ hide:
 # Privileged Container
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9018<br>
     Tactic: [Privilege Escalation](../tactics/PrivilegeEscalation/index.md) <br>
     MITRE technique: [T1610](https://attack.mitre.org/techniques/T1610/)
 

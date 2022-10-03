@@ -7,7 +7,7 @@ hide:
 # List Kubernetes Secrets
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9025<br>
     Tactic: [Credential Access](../tactics/CredentialAccess/index.md) <br>
     MITRE technique: [T1552.007](https://attack.mitre.org/techniques/T1552/007/)
 

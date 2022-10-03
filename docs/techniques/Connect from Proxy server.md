@@ -7,7 +7,7 @@ hide:
 # Connect from Proxy Server
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9024<br>
     Tactic: [Defense Evasion](../tactics/DefenseEvasion/index.md) <br>
     MITRE technique: [T1090](https://attack.mitre.org/techniques/T1090/)
 

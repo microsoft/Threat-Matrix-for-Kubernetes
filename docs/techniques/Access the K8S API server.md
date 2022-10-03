@@ -7,7 +7,7 @@ hide:
 # Access Kubernetes API Server
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9029<br>
     Tactic: [Discovery](../tactics/Discovery/index.md) <br>
     MITRE technique: [T1613](https://attack.mitre.org/techniques/T1613/)
 

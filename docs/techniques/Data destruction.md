@@ -7,7 +7,7 @@ hide:
 # Data Destruction
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9038<br>
     Tactic: [Impact](../tactics/Impact/index.md) <br>
     MITRE technique: [T1485](https://attack.mitre.org/techniques/T1485/)
 

@@ -7,7 +7,7 @@ hide:
 # Clear Container Logs
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9021<br>
     Tactic: [Defense Evasion](../tactics/DefenseEvasion/index.md) <br>
     MITRE technique: [T1070](https://attack.mitre.org/techniques/T1070/)
 

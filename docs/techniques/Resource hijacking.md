@@ -7,7 +7,7 @@ hide:
 # Resource Hijacking
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9039<br>
     Tactic: [Impact](../tactics/Impact/index.md) <br>
     MITRE technique: [T1496](https://attack.mitre.org/techniques/T1496/)
 

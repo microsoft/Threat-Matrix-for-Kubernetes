@@ -7,7 +7,7 @@ hide:
 # Access Kubernetes Dasbhoard
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9032<br>
     Tactic: [Discovery](../tactics/Discovery/index.md) <br>
     MITRE technique: [T1613](https://attack.mitre.org/techniques/T1613/)
 

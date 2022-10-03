@@ -7,7 +7,7 @@ hide:
 # Application Credentials in Configuration Files
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9027<br>
     Tactic: [Credential Access](../tactics/CredentialAccess/index.md), [Lateral Movement](../tactics/LateralMovement/index.md) <br>
     MITRE technique: [T1552](https://attack.mitre.org/techniques/T1552/)
 

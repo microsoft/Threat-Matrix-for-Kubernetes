@@ -7,7 +7,7 @@ hide:
 # Exposed Sensitive Interfaces
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9005<br>
     Tactic: [Initial Access](../tactics/InitialAccess/index.md) <br>
     MITRE technique: [T1133](https://attack.mitre.org/techniques/T1133/)
 

@@ -7,7 +7,7 @@ hide:
 # Access cloud resources
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9020 <br>
     Tactic: [Privilege Escalation](../tactics/PrivilegeEscalation/index.md), [Lateral Movement](../tactics/LateralMovement/index.md) <br>
     MITRE technique: [T1078.004](https://attack.mitre.org/techniques/T1078/004/)
 

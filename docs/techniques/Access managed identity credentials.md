@@ -7,7 +7,7 @@ hide:
 # Access Managed Identity Credentials
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9028<br>
     Tactic: [Credential Access](../tactics/CredentialAccess/index.md) <br>
     MITRE technique: [T1552.005](https://attack.mitre.org/techniques/T1552/005/)
 

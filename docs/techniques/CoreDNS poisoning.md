@@ -7,7 +7,7 @@ hide:
 # CoreDNS poisoning
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9035<br>
     Tactic: [Lateral Movement](../tactics/LateralMovement/index.md) <br>
     MITRE technique: [T1557](https://attack.mitre.org/techniques/T1557/)
 

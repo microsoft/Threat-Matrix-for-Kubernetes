@@ -7,7 +7,7 @@ hide:
 # Cluster-admin binding
 
 !!! info inline end
-    ID: ???<br>
+    ID: MS-TA9019<br>
     Tactic: [Privilege Escalation](../tactics/PrivilegeEscalation/index.md) <br>
     MITRE technique: [T1078.003](https://attack.mitre.org/techniques/T1078/003/)
 
