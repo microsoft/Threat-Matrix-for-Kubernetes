@@ -93,4 +93,13 @@ nav:
   - Mitigations: 
     - 'mitigations/index.md'
     - Multi-factor Authentication: 'mitigations/MS-M9001 Multi-factor Authentication.md'
+    - Restrict access to the API server using IP firewall: 'mitigations/MS-M9002 Restrict access to the API server using IP firewall.md'
+    - Adhere to least-privilege principle: 'mitigations/MS-M9003 Adhere to least-privilege principle.md'
+    - Secure CI/CD envrionment: 'mitigations/MS-M9004 Secure CI CD environment.md'
+    - Image Assurance Policy: 
+      - 'mitigations/MS-M9005/index.md'
+      - Gate generated images in CI/CD pipeline: 'mitigations/MS-M9005/MS-M9005.001 Gate generated images in CI CD pipeline.md'
+      - Gate images pushed to registries: 'mitigations/MS-M9005/MS-M9005.002 Gate images pushed to registries.md'
+      - Gate images deployed to Kubenertes cluster: 'mitigations/MS-M9005/MS-M9005.003 Gate images deployed to Kubenertes cluster.md'
+    - Enable Just In Time access to API server: 'mitigations/MS-M9006 Enable Just In Time access to API server.md'
   - About: 'about.md'
