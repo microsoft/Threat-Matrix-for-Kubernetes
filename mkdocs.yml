@@ -102,4 +102,7 @@ nav:
       - Gate images pushed to registries: 'mitigations/MS-M9005/MS-M9005.002 Gate images pushed to registries.md'
       - Gate images deployed to Kubenertes cluster: 'mitigations/MS-M9005/MS-M9005.003 Gate images deployed to Kubenertes cluster.md'
     - Enable Just In Time access to API server: 'mitigations/MS-M9006 Enable Just In Time access to API server.md'
+    - Network Intrusion Prevention: 'mitigations/MS-M9007 Network Intrusion Prevention.md'
+    - Limit Access to Services Over Network: 'mitigations/MS-M9008 Limit Access to Services Over Network.md'
+    - Require Strong Authentication to Services: 'mitigations/MS-M9009 Require Strong Authentication to Services.md'
   - About: 'about.md'
