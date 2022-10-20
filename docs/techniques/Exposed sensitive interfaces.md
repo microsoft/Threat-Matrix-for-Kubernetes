@@ -17,3 +17,5 @@ Exposing a sensitive interface to the internet poses a security risk. Some popul
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9008](../mitigations/MS-M9008%20Limit%20Access%20to%20Services%20Over%20Network.md)|Limit Access to Services Over Network|Limit access to sensitive interface over the Internet|
+|[MS-M9009](../mitigations/MS-M9009%20Require%20Strong%20Authentication%20to%20Services.md)|Require Strong Authentication to Services|Require strong authentication to exposed services|
