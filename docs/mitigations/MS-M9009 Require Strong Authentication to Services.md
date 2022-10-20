@@ -11,7 +11,7 @@ hide:
     MITRE mitigation: -
 
 
-Use strong authentication when exposing sensitive interfaces to the Internet. For example, attacks were observed against exposed Kubeflow and Argo workloads that were not configured to use OpenID connect or other authentication methods.
+Use strong authentication when exposing sensitive interfaces to the Internet. For example, attacks were observed against exposed Kubeflow and Argo workloads that were not configured to use OpenID Connect or other authentication methods.
 
 
 ## Techniques Addressed by Mitigation
