@@ -17,3 +17,4 @@ Admission controller is a Kubernetes component that intercepts, and possibly mod
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Restrict permissions to deploy or modify `MutatingAdmissionWebhook` and `ValidatingAdmissionWebhook` objects.|
