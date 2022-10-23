@@ -11,7 +11,7 @@ hide:
     MITRE mitigation: [M1038](https://attack.mitre.org/mitigations/M1038/), [M1040](https://attack.mitre.org/mitigations/M1040/)
 
 
-Restrict the running environment of the containers using Linux security modules, such as AppArmor, SELinux, Seccomp and others. Linux security modules can restrict access to files, running processes, certain system calls and others. Also, by dropping unnecessary Linux capabilities from the container runtime environment helps reduce the attack surface of such container.
+Restrict the running environment of the containers using Linux security modules, such as AppArmor, SELinux, Seccomp and others. Linux security modules can restrict access to files, running processes, certain system calls and others. Also, dropping unnecessary Linux capabilities from the container runtime environment helps reduce the attack surface of such container.
 
 
 ## Techniques Addressed by Mitigation
