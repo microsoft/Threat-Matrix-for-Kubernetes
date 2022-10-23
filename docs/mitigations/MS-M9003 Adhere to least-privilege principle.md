@@ -23,3 +23,6 @@ Kubeconfig file can contain credentials of accounts that allow interaction with 
 |--|----------|-----------|
 |[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using Cloud Credentials|Limit RBAC privileges in the cloud account to retrieve access credentials to managed Kubenetes clusters.|
 |[MS-TA9003](../techniques/Kubeconfig%20file.md)|Kubeconfig file|Limit privileges and actions that can be achieved by getting access to a kubeconfig file|
+|[MS-TA9008](../techniques/New%20Container.md)|New Container|Prevent unnecessary users and service accounts from creating new pods and controllers.|
+|[MS-TA9011](../techniques/Sidecar%20Injection.md)|Sidecar Injection|Prevent unnecessary users and service accounts from creating new pods and controllers.|
+|[MS-TA9012](../techniques/Backdoor%20container.md)|Backdoor Container|Prevent unnecessary users and service accounts from creating new pods and controllers.|

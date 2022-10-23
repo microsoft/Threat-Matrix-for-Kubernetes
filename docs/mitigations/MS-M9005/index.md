@@ -33,3 +33,5 @@ One approach of ensuring images passes assurance or compliance checks it to sign
 |--|----|---|
 |[MS-TA9002](../../techniques/Compromised%20Image%20In%20Registry.md)|Compromised Image In Registry|Ensure that only images that passed the security compliance policies are pushed to registries and deployed to Kubenetes clusters.|
 |[MS-TA9004](../../techniques/Application%20Vulnerability.md)|Application Vulnerability|Scan images for vulnerabilities|
+|[MS-TA9009](../../techniques/Application%20Exploit%20(RCE).md)|Application Exploit (RCE)|Block vulnerable images|
+

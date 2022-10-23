@@ -17,3 +17,6 @@ SSH server that is running inside a container may be used by attackers. If attac
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9015](../mitigations/MS-M9015%20Avoid%20Running%20Management%20Interface%20on%20Containers.md)|Avoid Running Management Interface on Containers|Avoid running SSH daemon on containers|
+|[MS-M9014](../mitigations/MS-M9014%20Network%20Segmentation.md)|Network Segmentation|Limit network access to containers|
+|[MS-M9011](../mitigations/MS-M9011%20Restrict%20Container%20Runtime%20using%20LSM.md)|Restrict Container Runtime using LSM|Limit which process can open network socket on a container.|
