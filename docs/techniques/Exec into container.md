@@ -17,3 +17,5 @@ Attackers who have permissions, can run malicious commands in containers in the 
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9010](../mitigations/MS-M9010%20Restrict%20Exec%20Commands%20on%20Pods.md)|Restrict Exec Commands on Pods|Restrict exec commands on pods using admissions controller.|
+|[MS-M9011](../mitigations/MS-M9011%20Restrict%20Container%20Runtime%20using%20LSM.md)|Restrict Container Runtime using LSM|Restrict container runtime capabilities using LSM.|

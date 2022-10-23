@@ -19,4 +19,12 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9007](./MS-M9007%20Network%20Intrusion%20Prevention.md)|Network Intrusion Prevention|
 |[MS-M9008](./MS-M9008%20Limit%20Access%20to%20Services%20Over%20Network.md)|Limit Access to Services Over Network|
 |[MS-M9009](./MS-M9009%20Require%20Strong%20Authentication%20to%20Services.md)|Require Strong Authentication to Services|
+|[MS-M9010](./MS-M9010%20Restrict%20Exec%20Commands%20on%20Pods.md)|Restrict Exec Commands on Pods|
+|[MS-M9011](./MS-M9011%20Restrict%20Container%20Runtime%20using%20LSM.md)|Restrict Container Runtime using LSM|
+|[MS-M9012](./MS-M9012%20Remove%20Tools%20from%20Container%20Images.md)|Remove Tools from Container Images|
+|[MS-M9013](./MS-M9013%20Limit%20Container%20Capabilities.md)|Limit Container Capabilities|
+|[MS-M9014](./MS-M9014%20Network%20Segmentation.md)|Network Segmentation|
+|[MS-M9015](./MS-M9015%20Avoid%20Running%20Management%20Interface%20on%20Containers.md)|Avoid Running Management Interface on Containers|
+|[MS-M9016](./MS-M9016%20Restrict%20File%20and%20Directory%20Permissions.md)|Restrict File and Directory Permissions|
+|[MS-M9017](./MS-M9017%20Ensure%20that%20pods%20meet%20defined%20Pod%20Security%20Standards.md)|Ensure that pods meet defined Pod Security Standards|
 

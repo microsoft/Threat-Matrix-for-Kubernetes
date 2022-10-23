@@ -17,3 +17,7 @@ hostPath volume mounts a directory or a file from the host to the container. Att
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9013](../mitigations/MS-M9013%20Limit%20Container%20Capabilities.md)|Limit Container Capabilities|Block sensitive volume mounts using admission controller.|
+|[MS-M9016](../mitigations/MS-M9016%20Restrict%20File%20and%20Directory%20Permissions.md)]|Restrict File and Directory Permissions|Use read-only volumes.|
+|[MS-M9011](../mitigations/MS-M9011%20Restrict%20Container%20Runtime%20using%20LSM.md)|Restrict Container Runtime using LSM|Use AppArmor to restrict file writing.|
+|[MS-TA9013](../mitigations/MS-M9017%20Ensure%20that%20pods%20meet%20defined%20Pod%20Security%20Standards.md)|Ensure that pods meet defined Pod Security Standards|Use `Baseline` or `Restricted` pod security standards to prevent exploiting writable hostPath mount.|
