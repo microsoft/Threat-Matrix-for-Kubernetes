@@ -19,3 +19,5 @@ Kubernetes events can be very useful for identifying changes that occur in the c
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9020](../mitigations/MS-M9020%20Collect%20Logs%20to%20Remote%20Data%20Storage.md)|Collect Logs to Remote Data Storage|Collect Kubernetes logs to a separate storage system.|
+|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Restrict permissions to delete Kubernetes events.|

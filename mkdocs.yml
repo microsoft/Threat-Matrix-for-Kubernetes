@@ -17,6 +17,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - def_list
 extra_css:
   - stylesheets/extra.css
 nav:
@@ -113,4 +114,8 @@ nav:
     - Avoid Running Management Interface on Containers: 'mitigations/MS-M9015 Avoid Running Management Interface on Containers.md'
     - Restrict File and Directory Permissions: 'mitigations/MS-M9016 Restrict File and Directory Permissions.md'
     - Ensure that pods meet defined Pod Security Standards: 'mitigations/MS-M9017 Ensure that pods meet defined Pod Security Standards.md'
+    - Restricting cloud metadata API access: 'mitigations/MS-M9018 Restricting cloud metadata API access.md'
+    - Allocate specific identities to pods: 'mitigations/MS-M9019 Allocate specific identities to pods.md'
+    - Collect Logs to Remote Data Storage: 'mitigations/MS-M9020 Collect Logs to Remote Data Storage.md'
+    - Restrict the usage of unauthenticated APIs in the Cluster: 'mitigations/MS-M9021 Restrict the usage of unauthenticated APIs in the Cluster.md'
   - About: 'about.md'
