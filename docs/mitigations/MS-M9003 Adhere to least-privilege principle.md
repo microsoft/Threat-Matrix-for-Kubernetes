@@ -43,3 +43,4 @@ Kubernetes project also lists the following recommendations for permissions and 
 |[MS-TA9015](../techniques/Malicious%20admission%20controller.md)|Malicious Admission Controller|Restrict permissions to deploy or modify `MutatingAdmissionWebhook` and `ValidatingAdmissionWebhook` objects.|
 |[MS-TA9019](../techniques/Cluster-admin%20binding.md)|Cluster-admin binding|Review privileged role binding and RBAC settings, restrict permissions to configure rolebinding and clusterrolebinding.|
 |[MS-TA9020](../techniques/Access%20cloud%20resources.md)|Access cloud resources|Grant only necessary permission to the cloud identities.|
+|[MS-TA9022](../techniques/Delete%20K8S%20events.md)|Delete Kubernetes Events|Restrict permissions to delete Kubernetes events.|

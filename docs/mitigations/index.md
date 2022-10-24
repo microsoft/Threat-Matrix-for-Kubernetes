@@ -29,4 +29,6 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9017](./MS-M9017%20Ensure%20that%20pods%20meet%20defined%20Pod%20Security%20Standards.md)|Ensure that pods meet defined Pod Security Standards|
 |[MS-M9018](./MS-M9018%20Restricting%20cloud%20metadata%20API%20access.md)|Restricting cloud metadata API access|
 |[MS-M9019](./MS-M9019%20Allocate%20specific%20identities%20to%20pods.md)|Allocate specific identities to pods|
+|[MS-M9020](./MS-M9020%20Collect%20Logs%20to%20Remote%20Data%20Storage.md)|Collect Logs to Remote Data Storage|
+|[MS-M9021](./MS-M9021%20Restrict%20the%20usage%20of%20unauthenticated%20APIs%20in%20the%20Cluster.md)|Restrict the usage of unauthenticated APIs in the Cluster|
 
