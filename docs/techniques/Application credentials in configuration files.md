@@ -19,3 +19,5 @@ Using those credentials attackers may gain access to additional resources inside
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9026](../mitigations/MS-M9026%20Avoid%20using%20plain%20text%20credentials%20in%20configuration%20files.md)|Avoid using plain text credentials|Avoid using plain text credentials in Kubernetes configuration|
+|[MS-M9022](../mitigations/MS-M9022%20Use%20Managed%20Secret%20Store.md)|Use Managed Secret Store|Store secrets securely in managed secret stores|

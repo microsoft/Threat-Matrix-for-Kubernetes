@@ -19,3 +19,5 @@ An attacker which get access to the Service Account token can also authenticate 
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9025](../mitigations/MS-M9025%20Disable%20Service%20Account%20Auto%20Mount.md)|Disable Service Account Auto Mount|Disable service account auto mount.|
+|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Configure the Kubernetes RBAC such that each service account will have the minimal necessary permissions for the application’s functionality.|

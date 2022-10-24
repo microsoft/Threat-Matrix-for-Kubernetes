@@ -17,3 +17,5 @@ Managed identities are identities that are managed by the cloud provider and can
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9018](../mitigations/MS-M9018%20Restricting%20cloud%20metadata%20API%20access.md)|Restricting cloud metadata API access|Restrict the access of pods to IMDS|
+|[MS-M9019](../mitigations/MS-M9019%20Allocate%20specific%20identities%20to%20pods.md)|Allocate specific identities to pods|Allocate specific identities to pods.|
