@@ -31,4 +31,9 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9019](./MS-M9019%20Allocate%20specific%20identities%20to%20pods.md)|Allocate specific identities to pods|
 |[MS-M9020](./MS-M9020%20Collect%20Logs%20to%20Remote%20Data%20Storage.md)|Collect Logs to Remote Data Storage|
 |[MS-M9021](./MS-M9021%20Restrict%20the%20usage%20of%20unauthenticated%20APIs%20in%20the%20Cluster.md)|Restrict the usage of unauthenticated APIs in the Cluster|
+|[MS-M9022](./MS-M9022%20Use%20Managed%20Secret%20Store.md)|Use Managed Secret Store|
+|[MS-M9023](./MS-M9023%20Remove%20unused%20secrets%20from%20the%20cluster.md)|Remove unused secrets from the cluster|
+|[MS-M9024](./MS-M9024%20Restrict%20access%20to%20etcd.md)|Restrict access to etcd|
+|[MS-M9025](./MS-M9025%20Disable%20Service%20Account%20Auto%20Mount.md)|Disable Service Account Auto Mount|
+|[MS-M9026](./MS-M9026%20Avoid%20using%20plain%20text%20credentials%20in%20configuration%20files.md)|Avoid using plain text credentials|
 

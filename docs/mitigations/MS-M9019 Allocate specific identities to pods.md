@@ -19,3 +19,4 @@ When needed, allocate dedicated cloud identity per pod with minimal permissions,
 |ID|Name|Use|
 |--|----------|-----------|
 |[MS-TA9020](../techniques/Access%20cloud%20resources.md)|Access cloud resources|Use dedicated allocated identities to pods|
+|[MS-TA9028](../techniques/Access%20managed%20identity%20credentials.md)|Access Managed Identity Credentials|Allocate specific identities to pods.|
