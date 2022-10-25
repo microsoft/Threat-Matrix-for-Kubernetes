@@ -17,3 +17,5 @@ Kubernetes networking behavior allows traffic between pods in the cluster as a d
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9014](../mitigations/MS-M9014%20Network%20Segmentation.md)|Network Segmentation|Provision pod network policies to restrict the traffic between pods|
+|[MS-M9005](../mitigations/MS-M9005/index.md)|Image Assurance Policy|Avoid deployment of vulnerable applications to the cluster|

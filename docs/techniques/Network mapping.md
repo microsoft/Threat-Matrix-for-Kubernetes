@@ -17,3 +17,4 @@ Attackers may try to map the cluster network to get information on the running a
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9014](../mitigations/MS-M9014%20Network%20Segmentation.md)|Network Segmentation|Restrict network between pods using network policies|

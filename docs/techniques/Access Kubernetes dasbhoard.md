@@ -17,3 +17,5 @@ The Kubernetes dashboard is a web-based UI that is used for monitoring and manag
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9008](../mitigations/MS-M9008%20Limit%20Access%20to%20Services%20Over%20Network.md)|Limit Access to Services Over Network|Avoid using Kubernetes dashboard if possible|
+|[MS-M9014](../mitigations/MS-M9014%20Network%20Segmentation.md)|Network Segmentation|Restrict access to the Kubernetes dashboard service|

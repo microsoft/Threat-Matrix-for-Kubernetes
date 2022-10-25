@@ -28,3 +28,4 @@ In AKS clusters which are configured to use service principal, holds the credent
 |[MS-TA9018](../techniques/Privileged%20container.md)|Privileged Container|Block privileged containers using admission controller.|
 |[MS-TA9020](../techniques/Access%20cloud%20resources.md)|Access cloud resources|Block mounting volumes with access to cloud credentials.|
 |[MS-TA9026](../techniques/Mount%20service%20principal.md)|Mount Service Principal|Block sensitive volume mounts using admission controller|
+|[MS-TA9036](../techniques/ARP%20poisoning%20and%20IP%20spoofing.md)|ARP poisoning and IP spoofing|Avoid NET_RAW capability in containers which would enable sending crafted packets that perform ARP poisoning.|

@@ -36,4 +36,6 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9024](./MS-M9024%20Restrict%20access%20to%20etcd.md)|Restrict access to etcd|
 |[MS-M9025](./MS-M9025%20Disable%20Service%20Account%20Auto%20Mount.md)|Disable Service Account Auto Mount|
 |[MS-M9026](./MS-M9026%20Avoid%20using%20plain%20text%20credentials%20in%20configuration%20files.md)|Avoid using plain text credentials|
+|[MS-M9027](./MS-M9027%20Use%20NodeRestriction%20Admission%20Controller.md)|Use NodeRestriction Admission Controller|
+|[MS-M9028](./MS-M9028%20Use%20CNIs%20that%20are%20not%20prone%20to%20ARP%20poisoning.md)|Use CNIs that are not prone to ARP poisoning|
 

@@ -17,3 +17,4 @@ CoreDNS is a modular Domain Name System (DNS) server written in Go, hosted by Cl
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Limit updates permissions to the CoreDNS ConfigMap object.|
