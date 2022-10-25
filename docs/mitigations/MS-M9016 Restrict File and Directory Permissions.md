@@ -19,3 +19,4 @@ When using `hostPath` volumes, set it to “read-only” mode if possible. This 
 |ID|Name|Use|
 |--|----------|-----------|
 |[MS-TA9013](../techniques/Writable%20hostPath%20mount.md)|Writable hostPath Mount|Use read-only volumes.|
+|[MS-TA9021](../techniques/Clear%20container%20logs.md)|Clear Container Logs|Restrict access to container logs.|
