@@ -11,7 +11,7 @@ hide:
     MITRE mitigation: -
 
 
-Kubelet can deploy static pods by using manifests that are stored web accessible locations. If web-hosted manifest are not required, make sure that Kubelet does not run with `--manifest-url` argument.
+Kubelet can deploy static pods by using manifests that are stored in web accessible locations. If web-hosted manifest are not required, make sure that Kubelet does not run with `--manifest-url` argument.
 
 
 ## Techniques Addressed by Mitigation
