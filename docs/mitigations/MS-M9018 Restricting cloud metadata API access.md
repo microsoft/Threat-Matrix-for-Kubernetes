@@ -20,3 +20,4 @@ Many cluster-to-cloud authentication methods involve access to the node’s meta
 |--|----------|-----------|
 |[MS-TA9020](../techniques/Access%20cloud%20resources.md)|Access cloud resources|Restrict the access of pods to IMDS to restrict pods from getting access to cloud identities.|
 |[MS-TA9028](../techniques/Access%20managed%20identity%20credentials.md)|Access Managed Identity Credentials|Restrict the access of pods to IMDS|
+|[MS-TA9033](../techniques/Instance%20Metadata%20API.md)|Instance Metadata API|Restrict the access of pods to IMDS|

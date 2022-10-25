@@ -17,3 +17,4 @@ Cloud providers provide instance metadata service for retrieving information abo
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9018](../mitigations/MS-M9018%20Restricting%20cloud%20metadata%20API%20access.md)|Restricting cloud metadata API access|Restrict the access of pods to IMDS|

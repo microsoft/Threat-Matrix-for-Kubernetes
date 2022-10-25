@@ -123,4 +123,6 @@ nav:
     - Restrict access to etcd: 'mitigations/MS-M9024 Restrict access to etcd.md'
     - Disable Service Account Auto Mount: 'mitigations/MS-M9025 Disable Service Account Auto Mount.md'
     - Avoid using plain text credentials: 'mitigations/MS-M9026 Avoid using plain text credentials in configuration files.md'
+    - Use NodeRestriction Admission Controller: 'mitigations/MS-M9027 Use NodeRestriction Admission Controller.md'
+    - Use CNIs that are not prone to ARP poisoning: 'mitigations/MS-M9028 Use CNIs that are not prone to ARP poisoning.md'
   - About: 'about.md'
