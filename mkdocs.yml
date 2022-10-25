@@ -125,4 +125,7 @@ nav:
     - Avoid using plain text credentials: 'mitigations/MS-M9026 Avoid using plain text credentials in configuration files.md'
     - Use NodeRestriction Admission Controller: 'mitigations/MS-M9027 Use NodeRestriction Admission Controller.md'
     - Use CNIs that are not prone to ARP poisoning: 'mitigations/MS-M9028 Use CNIs that are not prone to ARP poisoning.md'
+    - Set requests and limits for containers: 'mitigations/MS-M9029 Set requests and limits for containers.md'
+    - Use Cloud Storage Provider: 'mitigations/MS-M9030 Use Cloud Storage Provider.md'
+    - Implement Data Backup Strategy: 'mitigations/MS-M9031 Implement Data Backup Strategy.md'
   - About: 'about.md'
