@@ -19,3 +19,4 @@ Attackers often use built-in executables to run their malicious code. Removing u
 |ID|Name|Use|
 |--|----------|-----------|
 |[MS-TA9007](../techniques/bash%20or%20cmd%20inside%20container.md)|Bash or Cmd Inside Container|Remove bash and other terminals from container images.|
+|[MS-TA9039](../techniques/Resource%20hijacking.md)|Resource Hijacking|Remove unused tools from the container image.|

@@ -19,4 +19,4 @@ Restrict running Kubenetes `exec` command on sensitive\production containers usi
 |ID|Name|Use|
 |--|----------|-----------|
 |[MS-TA9006](../techniques/Exec%20into%20container.md)|Exec Into Container|Restrict exec commands on pods using admissions controller.|
-|[MS-TA9041](../techniques/MS-M9010%20Restrict%20Exec%20Commands%20on%20Pods.md)|Collecting Data from Pod|Restrict checkpoint and other commands on pods using admissions controller.|
+|[MS-TA9041](../techniques/Collecting%20Data%20from%20Pod.md)|Collecting Data from Pod|Restrict checkpoint and other commands on pods using admissions controller.|

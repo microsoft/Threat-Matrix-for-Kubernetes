@@ -38,4 +38,6 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9026](./MS-M9026%20Avoid%20using%20plain%20text%20credentials%20in%20configuration%20files.md)|Avoid using plain text credentials|
 |[MS-M9027](./MS-M9027%20Use%20NodeRestriction%20Admission%20Controller.md)|Use NodeRestriction Admission Controller|
 |[MS-M9028](./MS-M9028%20Use%20CNIs%20that%20are%20not%20prone%20to%20ARP%20poisoning.md)|Use CNIs that are not prone to ARP poisoning|
-
+|[MS-M9029](./MS-M9029%20Set%20requests%20and%20limits%20for%20containers.md)|Set requests and limits for containers|
+|[MS-M9030](./MS-M9030%20Use%20Cloud%20Storage%20Provider.md)|Use Cloud Storage Provider|
+|[MS-M9031](./MS-M9031%20Implement%20Data%20Backup%20Strategy.md)|Implement Data Backup Strategy|
