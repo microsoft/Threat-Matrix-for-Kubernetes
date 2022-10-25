@@ -41,3 +41,4 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9029](./MS-M9029%20Set%20requests%20and%20limits%20for%20containers.md)|Set requests and limits for containers|
 |[MS-M9030](./MS-M9030%20Use%20Cloud%20Storage%20Provider.md)|Use Cloud Storage Provider|
 |[MS-M9031](./MS-M9031%20Implement%20Data%20Backup%20Strategy.md)|Implement Data Backup Strategy|
+|[MS-M9032](./MS-M9032%20Avoid%20using%20web-hosted%20manifest%20for%20Kubelet.md)|Avoid using web-hosted manifest for Kubelet|

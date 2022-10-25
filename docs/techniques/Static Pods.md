@@ -23,3 +23,5 @@ An attacker can use the static pods manifest file to ensure that a pod is always
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9016](../mitigations/MS-M9016%20Restrict%20File%20and%20Directory%20Permissions.md)|Restrict File and Directory Permissions|Restrict write access to the static pods manifest folder.|
+|[MS-M9032](../mitigations/MS-M9032%20Avoid%20using%20web-hosted%20manifest%20for%20Kubelet.md)|Avoid using web-hosted manifest for Kubelet|Avoid using web-hosted manifest for Kubelet.|
