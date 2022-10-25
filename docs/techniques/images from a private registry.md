@@ -17,3 +17,5 @@ The images that are running in the cluster can be stored in a private registry. 
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
+|[MS-M9018](../mitigations/MS-M9018%20Restricting%20cloud%20metadata%20API%20access.md)|Restricting cloud metadata API access|Restrict access to IMDS to prevent authentication with a private registry using cloud identities.|
+|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|In some configurations, the credentials to private registries are stored as Kubernetes secret. Adhere to least-privilege principle to prevent users from reading image pull secrets.|
