@@ -18,4 +18,4 @@ Take and store data backups from pod mounted volumes for critical workloads. Ens
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9038](../techniques/Data%20destruction.md)|Data Destruction|Backup pod mounted volumes for critial workloads.|
+|[MS-TA9038](../techniques/Data%20destruction.md)|Data Destruction|Backup pod mounted volumes for critical workloads.|
