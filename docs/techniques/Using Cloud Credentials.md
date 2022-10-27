@@ -18,5 +18,5 @@ In cases where the Kubernetes cluster is deployed in a public cloud (e.g., AKS i
 |ID|Mitigation|Description|
 |--|----------|-----------|
 |[MS-M9001](../mitigations/MS-M9001%20Multi-factor%20Authentication.md)|Multi-factor Authentication|Use multi-factor authentication for cloud accounts which can be elevated to access Kubernetes clusters in that cloud.|
-|[MS-M9002](../mitigations/MS-M9002%20Restrict%20access%20to%20the%20API%20server%20using%20IP%20firewall.md)|Restrict access to the API server using IP firewall|Restrict access of cloud accounts to API servers from known IP addresses.|
+|[MS-M9002](../mitigations/MS-M9002%20Restrict%20access%20to%20the%20API%20server%20using%20IP%20firewall.md)|Restrict access to the API server using IP firewall|Restrict access of cloud accounts to API server from trusted IP addresses only.|
 |[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Limit RBAC privileges in the cloud account to retrieve access credentials to managed Kubenetes clusters.|

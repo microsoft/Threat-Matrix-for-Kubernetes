@@ -20,4 +20,4 @@ In addition, the Kubernetes API server can also be used to query information abo
 |ID|Mitigation|Description|
 |--|----------|-----------|
 |[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Configure the Kubernetes RBAC such as each service account has only the minimal necessary permissions for the application’s functionality.|
-|[MS-M9002](../mitigations/MS-M9002%20Restrict%20access%20to%20the%20API%20server%20using%20IP%20firewall.md)|Restrict access to the API server using IP firewall|Restrict access of cloud accounts to API servers from known IP addresses.|
+|[MS-M9002](../mitigations/MS-M9002%20Restrict%20access%20to%20the%20API%20server%20using%20IP%20firewall.md)|Restrict access to the API server using IP firewall|Restrict access of cloud accounts to API server from trusted IP addresses only.|
