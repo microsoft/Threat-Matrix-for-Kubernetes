@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Restrict the usage of unauthenticated APIs in the Cluster
+# Restrict the usage of unauthenticated APIs in the cluster
 
 !!! info inline end
     ID: MS-M9021<br>
