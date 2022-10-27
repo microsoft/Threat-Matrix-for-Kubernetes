@@ -18,4 +18,4 @@ Attackers may attempt to destroy data and resources in the cluster. This include
 |ID|Mitigation|Description|
 |--|----------|-----------|
 |[MS-M9030](../mitigations/MS-M9030%20Use%20Cloud%20Storage%20Provider.md)|Use Cloud Storage Provider|Use Cloud Storage provider to persist application data.|
-|[MS-M9031](../mitigations/MS-M9031%20Implement%20Data%20Backup%20Strategy.md)|Implement Data Backup Strategy|Backup pod mounted volumes for critial workloads.|
+|[MS-M9031](../mitigations/MS-M9031%20Implement%20Data%20Backup%20Strategy.md)|Implement Data Backup Strategy|Backup pod mounted volumes for critical workloads.|

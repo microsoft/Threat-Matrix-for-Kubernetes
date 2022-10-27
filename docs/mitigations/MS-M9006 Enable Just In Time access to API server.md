@@ -11,7 +11,7 @@ hide:
     MITRE mitigation: -
 
 
-Employing Just In Time (JIT) elevated access to Kubernetes API server helps reduce the attack surface to the API server by compromised accounts by allowing access only at specific times, and through a goverened escalation  process. Enabling JIT access in Kubernetes is often done together with OpenID authentication which includes processes and tools to manage JIT access. One example of such OpenID authentication is Azure Active Directory authentication to Kubernetes clusters. The JIT approval is performed in the cloud control-plane level. Therefore, even if attackers have access to an account credentials, their access to the cluster is limited.
+Employing Just In Time (JIT) elevated access to Kubernetes API server helps reduce the attack surface to the API server by compromised accounts by allowing access only at specific times, and through a governed escalation  process. Enabling JIT access in Kubernetes is often done together with OpenID authentication which includes processes and tools to manage JIT access. One example of such OpenID authentication is Azure Active Directory authentication to Kubernetes clusters. The JIT approval is performed in the cloud control-plane level. Therefore, even if attackers have access to an account credentials, their access to the cluster is limited.
 
 
 ## Techniques Addressed by Mitigation

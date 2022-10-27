@@ -17,5 +17,5 @@ Running a compromised image in a cluster can compromise the cluster. Attackers w
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
-|[MS-M9004](../mitigations/MS-M9004%20Secure%20CI%20CD%20environment.md)|Secure CI/CD envrionment|Placing gates in the CI\CD process can block pushing unsecured code to container images.|
-|[MS-M9005](../mitigations/MS-M9005/index.md)|Image Assurance Policy|Ensure that only images that passed the security compliance policies are pushed to registries and deployed to Kubenetes clusters.|
+|[MS-M9004](../mitigations/MS-M9004%20Secure%20CI%20CD%20environment.md)|Secure CI/CD environment|Placing gates in the CI\CD process can block pushing unsecured code to container images.|
+|[MS-M9005](../mitigations/MS-M9005/index.md)|Image Assurance Policy|Ensure that only images that passed the security compliance policies are pushed to registries and deployed to Kubernetes clusters.|

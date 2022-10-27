@@ -19,4 +19,4 @@ Also, attackers can deploy their containers in the kube-system namespace where t
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
-|[MS-M9005.003](../mitigations/MS-M9005/MS-M9005.003%20Gate%20images%20deployed%20to%20Kubenertes%20cluster.md)|Gate images deployed to Kubenertes cluster|Restrict deployment of new containers from trusted supply chain|
+|[MS-M9005.003](../mitigations/MS-M9005/MS-M9005.003%20Gate%20images%20deployed%20to%20Kubenertes%20cluster.md)|Gate images deployed to Kubernetes cluster|Restrict deployment of new containers from trusted supply chain|

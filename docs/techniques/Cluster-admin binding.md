@@ -17,4 +17,4 @@ Role-based access control (RBAC) is a key security feature in Kubernetes. RBAC c
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
-|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Review privileged role binding and RBAC settings, restrict permissions to configure rolebinding and clusterrolebinding.|
+|[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Review privileged role binding and RBAC settings, restrict permissions to configure `rolebinding` and `clusterrolebinding`.|

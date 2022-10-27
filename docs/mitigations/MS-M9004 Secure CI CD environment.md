@@ -11,7 +11,7 @@ hide:
     MITRE mitigation: -
 
 
-Security code repositories and CI/CD environment by placing gates to restrict unauthorized access and modification of content. This can include enforcing RBAC permissions to access and make changes to code, artifacts and build piplines, ensure goverened process for pull-request approval, apply branch policies and others.
+Security code repositories and CI/CD environment by placing gates to restrict unauthorized access and modification of content. This can include enforcing RBAC permissions to access and make changes to code, artifacts and build pipelines, ensure governed process for pull-request approval, apply branch policies and others.
 
 
 
