@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Connect from Proxy Server
+# Connect from proxy server
 
 !!! info inline end
     ID: MS-TA9024<br>

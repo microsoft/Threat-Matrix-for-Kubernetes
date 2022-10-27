@@ -10,8 +10,8 @@ The initial access tactic consists of techniques that are used for gaining acces
 
 |ID|Name|
 |--|----|
-|[MS-TA9001](../../techniques/Using%20Cloud%20Credentials.md)|Using Cloud Credentials|
-|[MS-TA9002](../../techniques/Compromised%20Image%20In%20Registry.md)|Compromised Image In Registry|
+|[MS-TA9001](../../techniques/Using%20Cloud%20Credentials.md)|Using cloud credentials|
+|[MS-TA9002](../../techniques/Compromised%20Image%20In%20Registry.md)|Compromised image in registry|
 |[MS-TA9003](../../techniques/Kubeconfig%20file.md)|Kubeconfig file|
-|[MS-TA9004](../../techniques/Application%20Vulnerability.md)|Application Vulnerability|
-|[MS-TA9005](../../techniques/Exposed%20sensitive%20interfaces.md)|Exposed Sensitive Interfaces|
+|[MS-TA9004](../../techniques/Application%20Vulnerability.md)|Application vulnerability|
+|[MS-TA9005](../../techniques/Exposed%20sensitive%20interfaces.md)|Exposed sensitive interfaces|

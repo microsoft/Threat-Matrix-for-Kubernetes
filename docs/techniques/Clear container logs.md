@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Clear Container Logs
+# Clear container logs
 
 !!! info inline end
     ID: MS-TA9021<br>

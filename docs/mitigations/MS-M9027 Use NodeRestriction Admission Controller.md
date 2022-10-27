@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Use NodeRestriction Admission Controller
+# Use NodeRestriction admission controller
 
 !!! info inline end
     ID: MS-M9027<br>

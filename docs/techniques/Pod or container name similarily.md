@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Pod or Container Name Similarily
+# Pod or container name similarity
 
 !!! info inline end
     ID: MS-TA9023<br>

@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Limit Access to Services Over Network
+# Limit access to services over network
 
 !!! info inline end
     ID: MS-M9008<br>
@@ -20,5 +20,5 @@ If services need to be exposed to the internet and are exposed using `LoadBalanc
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9005](../techniques/Exposed%20sensitive%20interfaces.md)|Exposed Sensitive Interfaces|Limit access to sensitive interface over the Internet|
-|[MS-TA9032](../techniques/Access%20Kubernetes%20dasbhoard.md)|Access Kubernetes Dashboard|Restrict access to the Kubernetes dashboard service|
+|[MS-TA9005](../techniques/Exposed%20sensitive%20interfaces.md)|Exposed sensitive interfaces|Limit access to sensitive interface over the Internet|
+|[MS-TA9032](../techniques/Access%20Kubernetes%20dasbhoard.md)|Access Kubernetes dashboard|Restrict access to the Kubernetes dashboard service|

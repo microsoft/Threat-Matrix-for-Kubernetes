@@ -18,4 +18,4 @@ Avoid using plain text credentials in configuration files. Use Kubernetes secret
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9027](../techniques/Application%20credentials%20in%20configuration%20files.md)|Application Credentials in Configuration Files|Avoid using plain text credentials in Kubernetes configuration|
+|[MS-TA9027](../techniques/Application%20credentials%20in%20configuration%20files.md)|Application credentials in configuration files|Avoid using plain text credentials in Kubernetes configuration|

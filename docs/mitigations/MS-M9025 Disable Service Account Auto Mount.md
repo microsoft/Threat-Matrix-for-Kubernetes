@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Disable Service Account Auto Mount
+# Disable service account auto mount
 
 !!! info inline end
     ID: MS-M9025<br>
@@ -18,4 +18,4 @@ By default, a service account is mounted to every pod. If the application doesnâ
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9016](../techniques/container%20service%20account.md)|Container Service Account|Disable service account auto mount.|
+|[MS-TA9016](../techniques/container%20service%20account.md)|Container service account|Disable service account auto mount.|

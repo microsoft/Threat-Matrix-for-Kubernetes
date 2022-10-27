@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# List Kubernetes Secrets
+# List Kubernetes secrets
 
 !!! info inline end
     ID: MS-TA9025<br>

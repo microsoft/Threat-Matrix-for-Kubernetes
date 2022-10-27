@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Restrict File and Directory Permissions
+# Restrict file and directory permissions
 
 !!! info inline end
     ID: MS-M9016<br>
@@ -20,6 +20,6 @@ Kubelet monitors a specific folder on the node which contains static pods manife
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9013](../techniques/Writable%20hostPath%20mount.md)|Writable hostPath Mount|Use read-only volumes.|
-|[MS-TA9021](../techniques/Clear%20container%20logs.md)|Clear Container Logs|Restrict access to container logs.|
-|[MS-TA9017](../techniques/Static%20Pods.md)|Static Pods|Restrict write access to the static pods manifest folder.|
+|[MS-TA9013](../techniques/Writable%20hostPath%20mount.md)|Writable hostPath mount|Use read-only volumes.|
+|[MS-TA9021](../techniques/Clear%20container%20logs.md)|Clear container logs|Restrict access to container logs.|
+|[MS-TA9017](../techniques/Static%20Pods.md)|Static pods|Restrict write access to the Static pods manifest folder.|

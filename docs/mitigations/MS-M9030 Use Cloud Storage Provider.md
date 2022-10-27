@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Use Cloud Storage Provider
+# Use cloud storage provider
 
 !!! info inline end
     ID: MS-M9030<br>
@@ -18,4 +18,4 @@ Use cloud storage services, such as Azure Files, for storing the application’s
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9038](../techniques/Data%20destruction.md)|Data Destruction|Use Cloud Storage provider to persist application data.|
+|[MS-TA9038](../techniques/Data%20destruction.md)|Data destruction|Use Cloud Storage provider to persist application data.|

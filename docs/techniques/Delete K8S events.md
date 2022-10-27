@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Delete Kubernetes Events
+# Delete Kubernetes events
 
 !!! info inline end
     ID: MS-TA9022<br>

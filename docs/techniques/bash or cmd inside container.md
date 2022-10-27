@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Bash or Cmd Inside Container
+# Bash or cmd inside container
 
 !!! info inline end
     ID: MS-TA9007 <br>

@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Network Intrusion Prevention
+# Network intrusion prevention
 
 !!! info inline end
     ID: MS-M9007<br>
@@ -21,4 +21,4 @@ In some cases, this will be done by deploying a containerized version of a netwo
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9004](../techniques/Application%20Vulnerability.md)|Application Vulnerability|Use network intrusion prevention to block exploiting vulnerabilities.|
+|[MS-TA9004](../techniques/Application%20Vulnerability.md)|Application vulnerability|Use network intrusion prevention to block exploiting vulnerabilities.|

@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Mount Service Principal
+# Mount service principal
 
 !!! info inline end
     ID: MS-TA9026<br>

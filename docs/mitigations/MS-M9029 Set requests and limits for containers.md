@@ -18,4 +18,4 @@ Set requests and limits for each container to avoid resource contention and DoS 
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9040](../techniques/Denial%20of%20service.md)|Denial of Service|Limit compute resources for containers.|
+|[MS-TA9040](../techniques/Denial%20of%20service.md)|Denial of service|Limit compute resources for containers.|

@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Exposed Sensitive Interfaces
+# Exposed sensitive interfaces
 
 !!! info inline end
     ID: MS-TA9005<br>

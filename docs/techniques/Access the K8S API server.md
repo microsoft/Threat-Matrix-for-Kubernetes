@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Access Kubernetes API Server
+# Access Kubernetes API server
 
 !!! info inline end
     ID: MS-TA9029<br>

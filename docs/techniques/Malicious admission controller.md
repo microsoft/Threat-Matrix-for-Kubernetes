@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Malicious Admission Controller
+# Malicious admission controller
 
 !!! info inline end
     ID: MS-TA9015<br>

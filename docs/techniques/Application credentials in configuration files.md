@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Application Credentials in Configuration Files
+# Application credentials in configuration files
 
 !!! info inline end
     ID: MS-TA9027<br>

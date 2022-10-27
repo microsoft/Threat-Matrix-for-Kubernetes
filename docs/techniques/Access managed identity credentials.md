@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Access Managed Identity Credentials
+# Access Managed Identity credentials
 
 !!! info inline end
     ID: MS-TA9028<br>

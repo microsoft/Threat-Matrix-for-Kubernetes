@@ -17,4 +17,4 @@ In containerized environments, this includes credentials of the running applicat
 |[MS-TA9016](../../techniques/container%20service%20account.md)|Container service account|
 |[MS-TA9027](../../techniques/Application%20credentials%20in%20configuration%20files.md)|Application credentials in configuration files|
 |[MS-TA9028](../../techniques/Access%20managed%20identity%20credentials.md)|Access managed identity credentials|
-|[MS-TA9015](../../techniques/Malicious%20admission%20controller.md)|Malicious Admission controller|
+|[MS-TA9015](../../techniques/Malicious%20admission%20controller.md)|Malicious admission controller|

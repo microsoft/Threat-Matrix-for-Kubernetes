@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Images from a Private Registry
+# Images from a private registry
 
 !!! info inline end
     ID: MS-TA9037<br>

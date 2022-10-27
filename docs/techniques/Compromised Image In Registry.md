@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Compromised Image In Registry
+# Compromised image In registry
 
 !!! info inline end
     ID: MS-TA9002<br>

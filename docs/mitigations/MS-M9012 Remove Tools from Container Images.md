@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Remove Tools from Container Images
+# Remove tools from container images
 
 !!! info inline end
     ID: MS-M9012<br>
@@ -18,5 +18,5 @@ Attackers often use built-in executables to run their malicious code. Removing u
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9007](../techniques/bash%20or%20cmd%20inside%20container.md)|Bash or Cmd Inside Container|Remove bash and other terminals from container images.|
-|[MS-TA9039](../techniques/Resource%20hijacking.md)|Resource Hijacking|Remove unused tools from the container image.|
+|[MS-TA9007](../techniques/bash%20or%20cmd%20inside%20container.md)|Bash or Cmd inside container|Remove bash and other terminals from container images.|
+|[MS-TA9039](../techniques/Resource%20hijacking.md)|Resource hijacking|Remove unused tools from the container image.|

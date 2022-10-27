@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Resource Hijacking
+# Resource hijacking
 
 !!! info inline end
     ID: MS-TA9039<br>

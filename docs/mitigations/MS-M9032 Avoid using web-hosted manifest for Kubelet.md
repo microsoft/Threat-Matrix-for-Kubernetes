@@ -18,4 +18,4 @@ Kubelet can deploy static pods by using manifests that are stored in web accessi
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9017](../techniques/Static%20Pods.md)|Static Pods|Avoid using web-hosted manifest for Kubelet.|
+|[MS-TA9017](../techniques/Static%20Pods.md)|Static pods|Avoid using web-hosted manifest for Kubelet.|

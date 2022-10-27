@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Denial of Service
+# Denial of service
 
 !!! info inline end
     ID: MS-TA9040<br>
