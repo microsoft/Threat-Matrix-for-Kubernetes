@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Cluster Internal Networking
+# Cluster internal networking
 
 !!! info inline end
     ID: MS-TA9034<br>

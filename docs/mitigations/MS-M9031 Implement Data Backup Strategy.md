@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Implement Data Backup Strategy
+# Implement data backup strategy
 
 !!! info inline end
     ID: MS-M9031<br>
@@ -18,4 +18,4 @@ Take and store data backups from pod mounted volumes for critical workloads. Ens
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9038](../techniques/Data%20destruction.md)|Data Destruction|Backup pod mounted volumes for critical workloads.|
+|[MS-TA9038](../techniques/Data%20destruction.md)|Data destruction|Backup pod mounted volumes for critical workloads.|

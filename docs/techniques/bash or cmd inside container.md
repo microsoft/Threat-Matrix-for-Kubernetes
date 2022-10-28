@@ -4,14 +4,14 @@ hide:
   - footer
 ---
 
-# Bash or Cmd Inside Container
+# Bash or cmd inside container
 
 !!! info inline end
     ID: MS-TA9007 <br>
     Tactic: [Execution](../tactics/Execution/index.md) <br>
     MITRE technique: [T1059](https://attack.mitre.org/techniques/T1059/)
 
-
+Attackers who have permissions to run a cmd/bash script inside a container can use it to execute malicious code and compromise cluster resources.
 
 ## Mitigations
 

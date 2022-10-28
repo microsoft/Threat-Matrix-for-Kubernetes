@@ -18,8 +18,8 @@ In managed clusters, cloud providers often support native built-in firewall whic
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using Cloud Credentials|Restrict access of cloud accounts to API server from trusted IP addresses only|
+|[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using cloud credentials|Restrict access of cloud accounts to API server from trusted IP addresses only|
 |[MS-TA9003](../techniques/Kubeconfig%20file.md)|Kubeconfig file|Restrict access to the API server from known IP addresses|
-|[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from Proxy Server|Restrict access to the API server from known IP addresses|
-|[MS-TA9029](../techniques/Access%20the%20K8S%20API%20server.md)|Access Kubernetes API Server|Restrict access to the API server from known IP addresses|
-|[MS-TA9040](../techniques/Denial%20of%20service.md)|Denial of Service|Restrict access to the API server from known IP addresses|
+|[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from proxy server|Restrict access to the API server from known IP addresses|
+|[MS-TA9029](../techniques/Access%20the%20K8S%20API%20server.md)|Access Kubernetes API server|Restrict access to the API server from known IP addresses|
+|[MS-TA9040](../techniques/Denial%20of%20service.md)|Denial of service|Restrict access to the API server from known IP addresses|

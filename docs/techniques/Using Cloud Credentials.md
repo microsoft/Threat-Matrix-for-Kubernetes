@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Using Cloud Credentials
+# Using cloud credentials
 
 !!! info inline end
     ID: MS-TA9001<br>

@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Multi-factor Authentication
+# Multi-factor authentication
 
 !!! info inline end
     ID: MS-M9001<br>
@@ -17,4 +17,4 @@ Using multi-factor authentication for accounts can prevent unauthorized access i
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using Cloud Credentials|Use multi-factor authentication for cloud accounts which can be elevated to access Kubernetes clusters in that cloud.|
+|[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using cloud credentials|Use multi-factor authentication for cloud accounts which can be elevated to access Kubernetes clusters in that cloud.|

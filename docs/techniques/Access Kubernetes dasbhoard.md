@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Access Kubernetes Dashboard
+# Access Kubernetes dashboard
 
 !!! info inline end
     ID: MS-TA9032<br>

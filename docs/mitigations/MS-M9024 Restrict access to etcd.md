@@ -18,4 +18,4 @@ Access to etcd should be limited to the Kubernetes control plane only. Depending
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes Secrets|Restrict access to etcd.|
+|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes secrets|Restrict access to etcd.|

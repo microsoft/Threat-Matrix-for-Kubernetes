@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Network Mapping
+# Network mapping
 
 !!! info inline end
     ID: MS-TA9031<br>

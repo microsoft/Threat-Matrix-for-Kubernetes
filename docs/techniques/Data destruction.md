@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Data Destruction
+# Data destruction
 
 !!! info inline end
     ID: MS-TA9038<br>

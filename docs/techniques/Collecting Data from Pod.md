@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Collecting Data from Pod
+# Collecting data from pod
 
 !!! info inline end
     ID: MS-TA9041<br>

@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Static Pods
+# Static pods
 
 !!! info inline end
     ID: MS-TA9017<br>

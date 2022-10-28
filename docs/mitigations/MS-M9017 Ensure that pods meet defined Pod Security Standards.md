@@ -18,5 +18,5 @@ The Pod Security Standards define three different policies to broadly cover the 
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9013](../techniques/Writable%20hostPath%20mount.md)|Writable hostPath Mount|Use `Baseline` or `Restricted` pod security standards to prevent exploiting writable hostPath mount.|
-|[MS-TA9018](../techniques/Privileged%20container.md)|Privileged Container|Restrict privileged containers using pod security standards.|
+|[MS-TA9013](../techniques/Writable%20hostPath%20mount.md)|Writable hostPath mount|Use `Baseline` or `Restricted` pod security standards to prevent exploiting writable hostPath mount.|
+|[MS-TA9018](../techniques/Privileged%20container.md)|Privileged container|Restrict privileged containers using pod security standards.|

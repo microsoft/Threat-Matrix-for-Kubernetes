@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# SSH Server Running Inside Container
+# SSH server running inside container
 
 !!! info inline end
     ID: MS-TA9010<br>

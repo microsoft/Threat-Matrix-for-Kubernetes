@@ -18,4 +18,4 @@ Some unmanaged clusters are misconfigured such as anonymous access is accepted b
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from Proxy Server|Restrict unauthenticated API to the Kubernetes API server.|
+|[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from proxy server|Restrict unauthenticated API to the Kubernetes API server.|

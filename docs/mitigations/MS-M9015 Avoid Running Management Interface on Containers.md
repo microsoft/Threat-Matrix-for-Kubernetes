@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Avoid Running Management Interface on Containers
+# Avoid running management interface on containers
 
 !!! info inline end
     ID: MS-M9015<br>
@@ -18,4 +18,4 @@ Avoid running SSH daemon, as well as other management interfaces, if they arenâ€
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9010](../techniques/SSH%20server%20running%20inside%20container.md)|SSH Server Running Inside Container|Avoid running SSH daemon on containers|
+|[MS-TA9010](../techniques/SSH%20server%20running%20inside%20container.md)|SSH server running inside container|Avoid running SSH daemon on containers|

@@ -18,4 +18,4 @@ Remove unused secrets objects from the cluster.
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes Secrets|Remove unused secrets from the cluster.|
+|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes secrets|Remove unused secrets from the cluster.|

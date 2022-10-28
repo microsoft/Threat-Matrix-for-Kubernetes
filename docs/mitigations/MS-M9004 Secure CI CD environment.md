@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Secure CI/CD envrionment
+# Secure CI/CD environment
 
 !!! info inline end
     ID: MS-M9004<br>
@@ -19,4 +19,4 @@ Security code repositories and CI/CD environment by placing gates to restrict un
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9002](../techniques/Compromised%20Image%20In%20Registry.md)|Compromised Image In Registry|Placing gates in the CI\CD process can block pushing unsecured code to the image registry.|
+|[MS-TA9002](../techniques/Compromised%20Image%20In%20Registry.md)|Compromised image in registry|Placing gates in the CI\CD process can block pushing unsecured code to the image registry.|

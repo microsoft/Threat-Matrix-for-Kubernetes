@@ -15,6 +15,6 @@ The persistence tactic consists of techniques that are used by attackers to keep
 |[MS-TA9014](../../techniques/Kubernetes%20CronJob.md)|Kubernetes CronJob|
 |[MS-TA9015](../../techniques/Malicious%20admission%20controller.md)|Malicious admission controller|
 |[MS-TA9016](../../techniques/container%20service%20account.md)|Container service account|
-|[MS-TA9017](../../techniques/Static%20Pods.md)|Static Pods|
+|[MS-TA9017](../../techniques/Static%20Pods.md)|Static pods|
 
 

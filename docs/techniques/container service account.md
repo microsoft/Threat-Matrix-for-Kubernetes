@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Container Service Account
+# Container service account
 
 !!! info inline end
     ID: MS-TA9016<br>

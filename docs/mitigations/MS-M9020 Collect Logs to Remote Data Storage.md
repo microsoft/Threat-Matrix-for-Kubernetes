@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Collect Logs to Remote Data Storage
+# Collect logs to remote data storage
 
 !!! info inline end
     ID: MS-M9020<br>
@@ -18,5 +18,5 @@ Collect the Kubernetes and application logs of pods to external data storage to 
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9021](../techniques/Clear%20container%20logs.md)|Clear Container Logs|Collect container logs to a separate storage system.|
-|[MS-TA9022](../techniques/Delete%20K8S%20events.md)|Delete Kubernetes Events|Collect Kubernetes logs to a separate storage system.|
+|[MS-TA9021](../techniques/Clear%20container%20logs.md)|Clear container logs|Collect container logs to a separate storage system.|
+|[MS-TA9022](../techniques/Delete%20K8S%20events.md)|Delete Kubernetes events|Collect Kubernetes logs to a separate storage system.|

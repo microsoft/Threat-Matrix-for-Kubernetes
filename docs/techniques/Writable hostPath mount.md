@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Writable hostPath Mount
+# Writable hostPath mount
 
 !!! info inline end
     ID: MS-TA9013<br>

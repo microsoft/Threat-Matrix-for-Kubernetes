@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Use Managed Secret Store
+# Use managed secret store
 
 !!! info inline end
     ID: MS-M9022<br>
@@ -18,5 +18,5 @@ Use cloud secret store, such as Azure Key Vault, to securely store secrets that 
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes Secrets|Use cloud provider secret store to securely manage credentials in the cluster|
-|[MS-TA9027](../techniques/Application%20credentials%20in%20configuration%20files.md)|Use Managed Secret Store|Store secrets securely in managed secret stores|
+|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes secrets|Use cloud provider secret store to securely manage credentials in the cluster|
+|[MS-TA9027](../techniques/Application%20credentials%20in%20configuration%20files.md)|Application credentials in configuration files|Store secrets securely in managed secret stores|

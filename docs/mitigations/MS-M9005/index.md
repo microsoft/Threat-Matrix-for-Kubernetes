@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Image Assurance Policy
+# Image assurance policy
 
 !!! info inline end
     ID: MS-M9005<br>
@@ -31,8 +31,8 @@ One approach of ensuring images passes assurance or compliance checks it to sign
 
 |ID|Name|Use|
 |--|----|---|
-|[MS-TA9002](../../techniques/Compromised%20Image%20In%20Registry.md)|Compromised Image In Registry|Ensure that only images that passed the security compliance policies are pushed to registries and deployed to Kubernetes clusters.|
-|[MS-TA9004](../../techniques/Application%20Vulnerability.md)|Application Vulnerability|Scan images for vulnerabilities|
-|[MS-TA9009](../../techniques/Application%20Exploit%20(RCE).md)|Application Exploit (RCE)|Block vulnerable images|
-|[MS-TA9034](../../techniques/Cluster%20internal%20networking.md)|Cluster Internal Networking|Avoid deployment of vulnerable applications to the cluster|
+|[MS-TA9002](../../techniques/Compromised%20Image%20In%20Registry.md)|Compromised image in registry|Ensure that only images that passed the security compliance policies are pushed to registries and deployed to Kubernetes clusters.|
+|[MS-TA9004](../../techniques/Application%20Vulnerability.md)|Application vulnerability|Scan images for vulnerabilities|
+|[MS-TA9009](../../techniques/Application%20Exploit%20(RCE).md)|Application exploit (RCE)|Block vulnerable images|
+|[MS-TA9034](../../techniques/Cluster%20internal%20networking.md)|Cluster internal networking|Avoid deployment of vulnerable applications to the cluster|
 

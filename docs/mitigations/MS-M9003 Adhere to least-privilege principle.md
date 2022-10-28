@@ -34,22 +34,22 @@ Kubernetes project also lists the following recommendations for permissions and 
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using Cloud Credentials|Limit RBAC privileges in the cloud account to retrieve access credentials to managed Kubenetes clusters.|
+|[MS-TA9001](../techniques/Using%20Cloud%20Credentials.md)|Using cloud credentials|Limit RBAC privileges in the cloud account to retrieve access credentials to managed Kubenetes clusters.|
 |[MS-TA9003](../techniques/Kubeconfig%20file.md)|Kubeconfig file|Limit privileges and actions that can be achieved by getting access to a kubeconfig file|
-|[MS-TA9008](../techniques/New%20Container.md)|New Container|Prevent unnecessary users and service accounts from creating new pods and controllers.|
-|[MS-TA9011](../techniques/Sidecar%20Injection.md)|Sidecar Injection|Prevent unnecessary users and service accounts from creating new pods and controllers.|
-|[MS-TA9012](../techniques/Backdoor%20container.md)|Backdoor Container|Prevent unnecessary users and service accounts from creating new pods and controllers.|
+|[MS-TA9008](../techniques/New%20Container.md)|New container|Prevent unnecessary users and service accounts from creating new pods and controllers.|
+|[MS-TA9011](../techniques/Sidecar%20Injection.md)|Sidecar injection|Prevent unnecessary users and service accounts from creating new pods and controllers.|
+|[MS-TA9012](../techniques/Backdoor%20container.md)|Backdoor container|Prevent unnecessary users and service accounts from creating new pods and controllers.|
 |[MS-TA9014](../techniques/Kubernetes%20CronJob.md)|Kubernetes CronJob|Prevent unnecessary users and service accounts from creating new cronjobs.|
-|[MS-TA9015](../techniques/Malicious%20admission%20controller.md)|Malicious Admission Controller|Restrict permissions to deploy or modify `MutatingAdmissionWebhook` and `ValidatingAdmissionWebhook` objects.|
+|[MS-TA9015](../techniques/Malicious%20admission%20controller.md)|Malicious admission controller|Restrict permissions to deploy or modify `MutatingAdmissionWebhook` and `ValidatingAdmissionWebhook` objects.|
 |[MS-TA9019](../techniques/Cluster-admin%20binding.md)|Cluster-admin binding|Review privileged role binding and RBAC settings, restrict permissions to configure rolebinding and clusterrolebinding.|
 |[MS-TA9020](../techniques/Access%20cloud%20resources.md)|Access cloud resources|Grant only necessary permission to the cloud identities.|
-|[MS-TA9022](../techniques/Delete%20K8S%20events.md)|Delete Kubernetes Events|Restrict permissions to delete Kubernetes events.|
-|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes Secrets|Limit users and service accounts access to Kubernetes secrets.|
-|[MS-TA9026](../techniques/Mount%20service%20principal.md)|Mount Service Principal|Grant minimal required permissions to service principals|
+|[MS-TA9022](../techniques/Delete%20K8S%20events.md)|Delete Kubernetes events|Restrict permissions to delete Kubernetes events.|
+|[MS-TA9025](../techniques/List%20K8S%20secrets.md)|List Kubernetes secrets|Limit users and service accounts access to Kubernetes secrets.|
+|[MS-TA9026](../techniques/Mount%20service%20principal.md)|Mount service principal|Grant minimal required permissions to service principals|
 |[MS-TA9016](../techniques/container%20service%20account.md)|Container Service Account|Configure the Kubernetes RBAC such that each service account will have the minimal necessary permissions for the application’s functionality.|
 |[MS-TA9029](../techniques/Access%20the%20K8S%20API%20server.md)|Access Kubernetes API Server|Configure the Kubernetes RBAC such as each service account has only the minimal necessary permissions for the application’s functionality.|
 |[MS-TA9030](../techniques/Access%20Kubelet%20API.md)|Access Kubelet API|Kubelet uses Kubernetes RBAC to authorize requests to its API, when `Webhook` is used as authorization mode. In this mode, Kubelet sends a `SubjectAccessReview` to the API server to check if the identity is authorized to perform the required action. Configure the Kubernetes RBAC such as only service accounts that should legitimacy communicate with Kubelet API have the relevant permissions.|
 |[MS-TA9035](../techniques/CoreDNS%20poisoning.md)|CoreDNS poisoning|Limit updates permissions to the CoreDNS ConfigMap object.|
-|[MS-TA9037](../techniques/images%20from%20a%20private%20registry.md)|Images from a Private Registry|In some configurations, the credentials to private registries are stored as Kubernetes secret. Adhere to least-privilege principle to prevent users from reading image pull secrets.|
-|[MS-TA9041](../techniques/Collecting%20Data%20from%20Pod.md)|Collecting Data from Pod|Adhere to least-privilege principle to prevent users from checkpoint or running kubectl cp commands. `kubectl cp` wraps exec command which runs a tar process. Preventing exec into a container would effectively restrict `kubectl cp` command.|
-|[MS-TA9006](../techniques/Exec%20into%20container.md)|Exec Into Container|Adhere to least-privilege principle to prevent users from exec into containers|
+|[MS-TA9037](../techniques/images%20from%20a%20private%20registry.md)|Images from a private registry|In some configurations, the credentials to private registries are stored as Kubernetes secret. Adhere to least-privilege principle to prevent users from reading image pull secrets.|
+|[MS-TA9041](../techniques/Collecting%20Data%20from%20Pod.md)|Collecting data from pod|Adhere to least-privilege principle to prevent users from checkpoint or running kubectl cp commands. `kubectl cp` wraps exec command which runs a tar process. Preventing exec into a container would effectively restrict `kubectl cp` command.|
+|[MS-TA9006](../techniques/Exec%20into%20container.md)|Exec into container|Adhere to least-privilege principle to prevent users from exec into containers|

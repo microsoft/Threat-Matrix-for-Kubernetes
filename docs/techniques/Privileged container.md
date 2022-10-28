@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Privileged Container
+# Privileged container
 
 !!! info inline end
     ID: MS-TA9018<br>

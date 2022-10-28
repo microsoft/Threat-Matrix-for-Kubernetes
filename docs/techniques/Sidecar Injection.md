@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Sidecar Injection
+# Sidecar injection
 
 !!! info inline end
     ID: MS-TA9011<br>

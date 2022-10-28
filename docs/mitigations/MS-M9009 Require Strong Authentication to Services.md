@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-# Require Strong Authentication to Services
+# Require strong authentication to services
 
 !!! info inline end
     ID: MS-M9009<br>
@@ -21,6 +21,6 @@ Avoid using the read-only endpoint of Kubelet in port `10255`, which doesn’t r
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9005](../techniques/Exposed%20sensitive%20interfaces.md)|Exposed Sensitive Interfaces|Require strong authentication to exposed services|
-|[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from Proxy Server|Limit usage of kubeconfig authentication to the API server|
+|[MS-TA9005](../techniques/Exposed%20sensitive%20interfaces.md)|Exposed sensitive interfaces|Require strong authentication to exposed services|
+|[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from proxy server|Limit usage of kubeconfig authentication to the API server|
 |[MS-TA9030](../techniques/Access%20Kubelet%20API.md)|Access Kubelet API|Avoid using the unsecured port 10255 for the Kubelet API|
