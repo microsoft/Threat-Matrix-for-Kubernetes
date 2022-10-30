@@ -23,5 +23,5 @@ Restrict inbound and outbound network traffic of the pods in the cluster. This i
 |[MS-TA9024](../techniques/Connect%20from%20Proxy%20server.md)|Connect from proxy server|Limit network access from known proxy networks.|
 |[MS-TA9030](../techniques/Access%20Kubelet%20API.md)|Access Kubelet API|Restrict access of pods to the Kubelet API using Network Policy, blocking pod traffic to the ports 10250 and 10255.|
 |[MS-TA9031](../techniques/Network%20mapping.md)|Network segmentation|Restrict network between pods using network policies|
-|[MS-TA9032](../techniques/Access%20Kubernetes%20dasbhoard.md)|Access Kubernetes dashboard|Restrict access to the Kubernetes dashboard service|
+|[MS-TA9005](../techniques/Exposed%20sensitive%20interfaces.md)|Exposed sensitive interfaces|Restrict network access to the sensitive interfaces.|
 |[MS-TA9034](../techniques/Cluster%20internal%20networking.md)|Cluster internal networking|Provision pod network policies to restrict the traffic between pods|
