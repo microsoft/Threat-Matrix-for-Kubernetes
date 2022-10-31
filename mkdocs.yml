@@ -71,7 +71,7 @@ nav:
       - Access Kubernetes API server: 'techniques/Access the K8S API server.md'
       - Access Kubelet API: 'techniques/Access Kubelet API.md'
       - Network mapping: 'techniques/Network mapping.md'
-      - Access Kubernetes dashboard: 'techniques/Access Kubernetes dasbhoard.md'
+      - Exposed sensitive interfaces: 'techniques/Exposed sensitive interfaces.md'
       - Instance Metadata API: 'techniques/Instance Metadata API.md'
     - Lateral Movement:
       - 'tactics/LateralMovement/index.md'
