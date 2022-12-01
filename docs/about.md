@@ -13,7 +13,7 @@ The purpose of the threat matrix for Kubernetes is to conceptualize the known ta
 
 # Acknowledgments 
 
-The threat matrix for Kubernetes is created by Yossi Weizman and Dotan Patrich of the Microsoft Defender for Cloud team. 
+The threat matrix for Kubernetes is created by Yossi Weizman, Dotan Patrich and Ram Pliskin of the Microsoft Defender for Cloud team. 
  
  [MITRE ATT&CK © 2021 The MITRE Corporation](https://attack.mitre.org/resources/terms-of-use/) - This work is reproduced and distributed with the permission of The MITRE Corporation.
  
