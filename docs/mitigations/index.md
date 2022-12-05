@@ -22,7 +22,7 @@ Mitigations represent security concepts and classes of technologies that can be 
 |[MS-M9010](./MS-M9010%20Restrict%20Exec%20Commands%20on%20Pods.md)|Restrict exec commands on pods|
 |[MS-M9011](./MS-M9011%20Restrict%20Container%20Runtime%20using%20LSM.md)|Restrict container runtime using LSM|
 |[MS-M9012](./MS-M9012%20Remove%20Tools%20from%20Container%20Images.md)|Remove tools from container images|
-|[MS-M9013](./MS-M9013%20Limit%20Container%20Capabilities.md)|Limit container capabilities|
+|[MS-M9013](./MS-M9013%20Restrict%20over%20permissive%20containers.md)|Restrict over permissive containers|
 |[MS-M9014](./MS-M9014%20Network%20Segmentation.md)|Network segmentation|
 |[MS-M9015](./MS-M9015%20Avoid%20Running%20Management%20Interface%20on%20Containers.md)|Avoid running management interface on containers|
 |[MS-M9016](./MS-M9016%20Restrict%20File%20and%20Directory%20Permissions.md)|Restrict file and directory permissions|

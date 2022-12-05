@@ -17,5 +17,5 @@ Kubernetes has numerous network plugins (Container Network Interfaces or CNIs) t
 
 |ID|Mitigation|Description|
 |--|----------|-----------|
-|[MS-M9013](../mitigations/MS-M9013%20Limit%20Container%20Capabilities.md)|Limit Container Capabilities|Avoid NET_RAW capability in containers which would enable sending crafted packets that perform ARP poisoning.|
+|[MS-M9013](../mitigations/MS-M9013%20Restrict%20over%20permissive%20containers.md)|Restrict over permissive containers|Avoid NET_RAW capability in containers which would enable sending crafted packets that perform ARP poisoning.|
 |[MS-M9028](../mitigations/MS-M9028%20Use%20CNIs%20that%20are%20not%20prone%20to%20ARP%20poisoning.md)|Use CNIs that are not prone to ARP poisoning|Use CNIs that are not prone to ARP poisoning.|

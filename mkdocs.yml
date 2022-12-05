@@ -109,7 +109,7 @@ nav:
     - Restrict exec commands on pods: 'mitigations/MS-M9010 Restrict Exec Commands on Pods.md'
     - Restrict container runtime using LSM: 'mitigations/MS-M9011 Restrict Container Runtime using LSM.md'
     - Remove tools from container images: 'mitigations/MS-M9012 Remove Tools from Container Images.md'
-    - Limit container capabilities: 'mitigations/MS-M9013 Limit Container Capabilities.md'
+    - Restrict over permissive containers: 'mitigations/MS-M9013 Restrict over permissive containers.md'
     - Network segmentation: 'mitigations/MS-M9014 Network Segmentation.md'
     - Avoid running management interface on containers: 'mitigations/MS-M9015 Avoid Running Management Interface on Containers.md'
     - Restrict file and directory permissions: 'mitigations/MS-M9016 Restrict File and Directory Permissions.md'
