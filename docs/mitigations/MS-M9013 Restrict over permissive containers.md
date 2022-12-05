@@ -4,16 +4,16 @@ hide:
   - footer
 ---
 
-# Limit container capabilities
+# Restrict over permissive containers
 
 !!! info inline end
     ID: MS-M9013<br>
     MITRE mitigation: [M1038](https://attack.mitre.org/mitigations/M1038/)
 
 
-Use admission controller to prevent deploying containers with over-permissive capabilities in the cluster. This can include restricting privilege containers, containers with sensitive volumes, containers with excessive capabilities, and other signs of over permissive containers.
+Use admission controller to prevent deploying containers with over-permissive capabilities or configuration in the cluster. This can include restricting privileged containers, containers with sensitive volumes, containers with excessive capabilities, and other signs of over permissive containers.
 
-In AKS clusters which are configured to use service principal, holds the credentials to such service principal in the `/etc/kubernetes/azure.json` file on the cluster nodes. Containers with access to a volume containing this file are considered as containers with sensitive mount.
+In AKS clusters which are configured to use service principal, the service principal credentials are stored in the `/etc/kubernetes/azure.json` file on the cluster nodes. Containers with access to a volume containing this file are considered as containers with sensitive mount.
 
 
 ## Techniques Addressed by Mitigation

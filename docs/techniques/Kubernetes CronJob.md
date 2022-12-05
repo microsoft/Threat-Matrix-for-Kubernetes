@@ -19,4 +19,4 @@ Kubernetes Job is a controller that creates one or more pods and ensures that a 
 |--|----------|-----------|
 |[MS-M9005.003](../mitigations/MS-M9005/index.md)|Gate images deployed to Kubernetes cluster|Restrict deployment of new containers from trusted supply chain|
 |[MS-M9003](../mitigations/MS-M9003%20Adhere%20to%20least-privilege%20principle.md)|Adhere to least-privilege principle|Prevent unnecessary users and service accounts from creating new cronjobs.|
-|[MS-M9013](../mitigations/MS-M9013%20Limit%20Container%20Capabilities.md)|Limit Container Capabilities|Check cronjob pod template for sensitive mounts and excessive permissions.|
+|[MS-M9013](../mitigations/MS-M9013%20Restrict%20over%20permissive%20containers.md)|Restrict over permissive containers|Check cronjob pod template for sensitive mounts and excessive permissions.|
