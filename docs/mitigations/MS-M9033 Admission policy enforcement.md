@@ -18,4 +18,4 @@ Use admission controllers such as OPA/Gatekeeper or Kyverno to prevent Operators
 
 |ID|Name|Use|
 |--|----------|-----------|
-|[MS-TA9017](../techniques/Static%20Pods.md)|Static pods|Avoid using web-hosted manifest for Kubelet.|
+|[MS-TA9042](../techniques/Excessive%20operator%20permissions.md)|Excessive operator permissions|Ablock excessive or unintended RBAC permissions.|
