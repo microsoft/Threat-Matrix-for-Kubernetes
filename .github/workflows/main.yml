@@ -6,9 +6,15 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      # Required for `mkdocs gh-deploy` to push the built site to the gh-pages branch
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0
