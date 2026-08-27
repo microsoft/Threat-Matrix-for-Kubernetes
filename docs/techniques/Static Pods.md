@@ -11,7 +11,7 @@ hide:
     Tactic: [Persistence](../tactics/Persistence/index.md) <br>
     MITRE technique: 
 
-Static Pods are created and managed by the the kubelet daemon on each node, without the API server observing them. Kubelet watches each static pod and restart it if it fails.  
+Static Pods are created and managed by the kubelet daemon on each node, without the API server observing them. Kubelet watches each static pod and restart it if it fails.  
 
 Kubelet automatically tries to create a mirror pod on the Kubernetes API server to represent the static pods, so it will be visible on the API server, however the pods cannot be controlled from there.
 
